@@ -6,3 +6,6 @@ output/
 .ipynb_checkpoints
 __pycache__/
 raw.githubusercontent.com/
+
+*.pt
+*.pth
