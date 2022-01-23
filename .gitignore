@@ -1,0 +1,7 @@
+.DS_Store
+runs/
+models/
+output/
+.history/
+.ipynb_checkpoints
+
