@@ -9,3 +9,6 @@ raw.githubusercontent.com/
 
 *.pt
 *.pth
+
+*.csv
+*.xlsx
